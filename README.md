@@ -6,14 +6,13 @@ Systems Adminstrator
 
 Aspiring Data Scientist | SQL | Python
 
-* 🌍  I'm based in Zimbabwe
-* ✉️  You can contact me at [dokoshelter10@gmail.com](mailto:dokoshelter10@gmail.com)
-* 🧠  I'm learning Data Engineering
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I enjoy nature walk
+* 🌍  I'm based in Zimbabwe
+* ✉️  You can contact me at [dokoshelter10@gmail.com](mailto:dokoshelter10@gmail.com)
+* 🧠  I'm learning Data Engineering
+* 🤝  I'm open to collaborating on Interesting Projects
+* ⚡  I enjoy nature walk
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,17 +26,7 @@ Aspiring Data Scientist | SQL | Python
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/shelterdoko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shelterdoko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shelterdoko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/shelterdoko"><img src="https://github-readme-stats.vercel.app/api?username=shelterdoko&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shelterdoko's GitHub stats" /></a>
-
-<a href="http://www.github.com/shelterdoko"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shelterdoko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/shelterdoko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelterdoko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
